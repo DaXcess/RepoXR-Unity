@@ -162,3 +162,43 @@ MonoBehaviour:
   additionalBindings:
   - {fileID: 1631246867470585339, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
   - {fileID: -4727870699746860179, guid: 2c177e4c1497aee4cac466cceb511ab1, type: 3}
+  defaultLeftHandedBindings: "{\r\n  \"bindings\": [\r\n    {\r\n      \"action\":
+    \"VR Actions/Movement\",\r\n      \"id\": \"6f991d76-ce0a-4203-8b88-f43103c19387\",\r\n     
+    \"path\": \"<OculusTouchController>{RightHand}/thumbstick\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Jump\",\r\n      \"id\": \"2d02638a-4776-4c80-abca-b70ab1a9016c\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/primarybutton\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Interact\",\r\n      \"id\": \"c4698e84-f9fd-43b8-bc51-2152933357b5\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/grippressed\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Push\",\r\n      \"id\": \"ab44c2f6-3f24-411d-a991-353dec52c364\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/thumbstick/up\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Pull\",\r\n      \"id\": \"9a42fc03-eea5-4f5b-a7e7-a14971c46bf0\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/thumbstick/down\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Menu\",\r\n      \"id\": \"4ad2d54a-28da-439a-adc8-1d29da3499a2\",\r\n     
+    \"path\": \"<OculusTouchController>{RightHand}/primarybutton\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Grab\",\r\n      \"id\": \"95103c8c-cfcf-46ea-b2f1-7edd78da39a5\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/triggerpressed\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Rotate\",\r\n      \"id\": \"6d864927-29ff-4be1-9ab2-21d7db59e3f9\",\r\n     
+    \"path\": \"<OculusTouchController>{RightHand}/grippressed\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Tumble\",\r\n      \"id\": \"c4afcb3d-048b-40ac-8da2-1dab7e5fe6e9\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/secondarybutton\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Sprint\",\r\n      \"id\": \"fa6bfa63-b04e-441c-8c78-587ace02bd74\",\r\n     
+    \"path\": \"<OculusTouchController>{RightHand}/triggerpressed\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/ResetHeight\",\r\n      \"id\": \"4fff7ed6-0145-4b0b-b600-e828bb35d862\",\r\n     
+    \"path\": \"<OculusTouchController>{RightHand}/secondarybutton\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Turn\",\r\n      \"id\": \"3b03b41e-863e-4170-8f42-e60b37000145\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/thumbstick/left\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    },\r\n    {\r\n      \"action\":
+    \"VR Actions/Turn\",\r\n      \"id\": \"699440e6-d3df-4847-854c-875087b07a0d\",\r\n     
+    \"path\": \"<OculusTouchController>{LeftHand}/thumbstick/right\",\r\n      \"interactions\":
+    \"null\",\r\n      \"processors\": \"null\"\r\n    }\r\n  ]\r\n}\r\n"

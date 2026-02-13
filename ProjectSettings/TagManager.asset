@@ -32,9 +32,9 @@ TagManager:
   - HideTriggers
   - LightSeparate
   - PlayerVisuals
+  - LowPassTrigger
+  - PlayerVisualsLocal
   - InventorySlot
-  - 
-  - 
   - 
   - 
   m_SortingLayers:

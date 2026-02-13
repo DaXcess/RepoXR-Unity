@@ -8,6 +8,9 @@ namespace RepoXR.Input
     {
         public RemappableControl[] controls;
         public InputActionReference[] additionalBindings;
+
+        [TextArea]
+        public string defaultLeftHandedBindings;
     }
 
     [Serializable]
