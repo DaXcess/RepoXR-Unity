@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 00f31bdc4e26b3d49add059b051c9e43
+  m_SerializeEntries:
+  - m_GUID: 07fbf7643230fca43919a41f543316ab
+    m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_EMPTY.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f4cb36378018c48ba6c4978b9c6b01
+    m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_FILL.DUMMY_TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6977e352ef73816409f412390b7406c6
+    m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c76a12b9d5d71c40a1def841c5699da
+    m_Address: LocalizedAsset XR - TUTORIAL.MAP.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9048d6bacc499c547b48bc880646ac10
+    m_Address: LocalizedAsset XR - TUTORIAL.EXPRESSIONS.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f0e70ba8288e7b499008f589b8a48c5
+    m_Address: LocalizedAsset XR - TUTORIAL.MAP.DUMMY_TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbae1366d88a19d43affdcb7b5ff22bf
+    m_Address: LocalizedAsset XR - TUTORIAL.INVENTORY_FILL.TEXT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 21c2b7b1d319ee242be67e1e3e66f5be, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4bf6a62cc67f8754ca0404454472ec7c, type: 2}
+    - {fileID: 11400000, guid: 5aa8c23e285954e409b80280f2bdd21a, type: 2}

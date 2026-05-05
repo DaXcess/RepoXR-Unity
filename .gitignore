@@ -79,3 +79,6 @@ crashlytics-build.properties
 
 # Asset bundles
 /[Aa]sset[Bb]undles
+
+# Addressables
+/[Aa]ddressables/[Oo]utput
