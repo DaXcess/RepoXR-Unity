@@ -9,5 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 58ce7a7665e48b7448cea54c049a1d9d, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 0774eb25ae7173042b2ada82052905fc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ebeec88f345a2f94e9316cb06df9ef59, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b97bf6b1171a81442b98046cc0465901, type: 2}

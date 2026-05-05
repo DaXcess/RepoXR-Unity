@@ -4,7 +4,9 @@ namespace RepoXR.Player
 {
     public class VRRig : MonoBehaviour
     {
-        public MeshRenderer[] meshes;
+        [Header("Meshes")]
+        public MeshRenderer leftArmMesh;
+        public MeshRenderer rightArmMesh;
 
         [Header("Tracking")]
         public Transform head;
@@ -48,13 +50,13 @@ namespace RepoXR.Player
         public Vector3 normalPlaneOffset;
         public Vector3 gazePlaneOffset;
         
-        private Transform leftArmMesh;
-        private Transform rightArmMesh;
+        private Transform leftArmMeshTransform;
+        private Transform rightArmMeshTransform;
 
         private void Awake()
         {
-            leftArmMesh = leftArm.GetComponentInChildren<MeshRenderer>().transform;
-            rightArmMesh = rightArm.GetComponentInChildren<MeshRenderer>().transform;
+            leftArmMeshTransform = leftArm.GetComponentInChildren<MeshRenderer>().transform;
+            rightArmMeshTransform = rightArm.GetComponentInChildren<MeshRenderer>().transform;
         }
 
         private void LateUpdate()

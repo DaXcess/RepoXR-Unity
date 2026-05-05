@@ -2068,9 +2068,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d970aeea3174b940a909aae7d095350, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  meshes:
-  - {fileID: 5449389038177477700}
-  - {fileID: 3834228629729686717}
+  leftArmMesh: {fileID: 5449389038177477700}
+  rightArmMesh: {fileID: 3834228629729686717}
   head: {fileID: 0}
   leftShoulder: {fileID: 7014604594767841053}
   rightShoulder: {fileID: 7779086700484043119}
